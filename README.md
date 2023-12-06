@@ -18,7 +18,7 @@ A demonstration of data migration processes with examples using Liquibase.
 Instructions for quickly setting up a local database.
 
 ## About the Author
-Maxim Bohovik – a Java Developer with over 16 years of Java and related technology experience, hailing from Odessa. Check out the author's other webinar on  ["Spring Cloud: integration with external web services using Feign Client"](https://www.youtube.com/watch?v=uQ_LwKG-Urk&t=880s&pp=ygUb0JHQvtCz0L7QstC40Log0JzQsNC60YHQuNC8).
+Maxim Bohovik – a Java Developer with over 16 years of Java and related technology experience, hailing from Odessa. Check out the author's other webinar on  ["Spring Cloud: integration with external web services using Feign Client"](https://www.youtube.com/watch?v=uQ_LwKG-Urk&t=880s&pp=ygUb0JHQvtCz0L7QstC40Log0JzQsNC60YHQuNC8). and [code the project](https://github.com/maxBogovick/circuitbreaker-demo)
 
 ## Target Audience
 This webinar will be beneficial for:
